@@ -1,0 +1,24 @@
+import img1 from './images/img1.jpg';
+import img2 from './images/img2.jpg';
+import img3 from './images/img3.jpg';
+
+export const books = [
+  {
+    author: "Emily Henry",
+    title: "Happy Place",
+    img: img1,
+    id: 1,
+  },
+  {
+    author: "PiggyBack",
+    title: "Spider Man: Across the spider verse",
+    img: img2,
+    id: 2,
+  },
+  {
+    author: "Gregory E Lang",
+    title: "Why a daughter needs a Dad",
+    img: img3,
+    id: 3,
+  },
+];
